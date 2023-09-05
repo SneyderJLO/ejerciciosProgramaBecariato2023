@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "38_NetworkInformation_Tutorial/1.0.0": {
+        "runtime": {
+          "38_NetworkInformation_Tutorial.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "38_NetworkInformation_Tutorial/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

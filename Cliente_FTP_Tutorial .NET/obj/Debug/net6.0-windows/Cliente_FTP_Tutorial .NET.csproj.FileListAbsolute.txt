@@ -1,0 +1,17 @@
+C:\Users\usrTechsoft\source\repos\Cliente_FTP_Tutorial .NET\bin\Debug\net6.0-windows\Cliente_FTP_Tutorial .NET.exe
+C:\Users\usrTechsoft\source\repos\Cliente_FTP_Tutorial .NET\bin\Debug\net6.0-windows\Cliente_FTP_Tutorial .NET.deps.json
+C:\Users\usrTechsoft\source\repos\Cliente_FTP_Tutorial .NET\bin\Debug\net6.0-windows\Cliente_FTP_Tutorial .NET.runtimeconfig.json
+C:\Users\usrTechsoft\source\repos\Cliente_FTP_Tutorial .NET\bin\Debug\net6.0-windows\Cliente_FTP_Tutorial .NET.dll
+C:\Users\usrTechsoft\source\repos\Cliente_FTP_Tutorial .NET\bin\Debug\net6.0-windows\Cliente_FTP_Tutorial .NET.pdb
+C:\Users\usrTechsoft\source\repos\Cliente_FTP_Tutorial .NET\obj\Debug\net6.0-windows\Cliente_FTP_Tutorial .NET.csproj.AssemblyReference.cache
+C:\Users\usrTechsoft\source\repos\Cliente_FTP_Tutorial .NET\obj\Debug\net6.0-windows\Cliente_FTP_Tutorial_.NET.frmClienteFtp.resources
+C:\Users\usrTechsoft\source\repos\Cliente_FTP_Tutorial .NET\obj\Debug\net6.0-windows\Cliente_FTP_Tutorial .NET.csproj.GenerateResource.cache
+C:\Users\usrTechsoft\source\repos\Cliente_FTP_Tutorial .NET\obj\Debug\net6.0-windows\Cliente_FTP_Tutorial .NET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usrTechsoft\source\repos\Cliente_FTP_Tutorial .NET\obj\Debug\net6.0-windows\Cliente_FTP_Tutorial .NET.AssemblyInfoInputs.cache
+C:\Users\usrTechsoft\source\repos\Cliente_FTP_Tutorial .NET\obj\Debug\net6.0-windows\Cliente_FTP_Tutorial .NET.AssemblyInfo.cs
+C:\Users\usrTechsoft\source\repos\Cliente_FTP_Tutorial .NET\obj\Debug\net6.0-windows\Cliente_FTP_Tutorial .NET.csproj.CoreCompileInputs.cache
+C:\Users\usrTechsoft\source\repos\Cliente_FTP_Tutorial .NET\obj\Debug\net6.0-windows\Cliente_FTP_Tutorial .NET.dll
+C:\Users\usrTechsoft\source\repos\Cliente_FTP_Tutorial .NET\obj\Debug\net6.0-windows\refint\Cliente_FTP_Tutorial .NET.dll
+C:\Users\usrTechsoft\source\repos\Cliente_FTP_Tutorial .NET\obj\Debug\net6.0-windows\Cliente_FTP_Tutorial .NET.pdb
+C:\Users\usrTechsoft\source\repos\Cliente_FTP_Tutorial .NET\obj\Debug\net6.0-windows\Cliente_FTP_Tutorial .NET.genruntimeconfig.cache
+C:\Users\usrTechsoft\source\repos\Cliente_FTP_Tutorial .NET\obj\Debug\net6.0-windows\ref\Cliente_FTP_Tutorial .NET.dll

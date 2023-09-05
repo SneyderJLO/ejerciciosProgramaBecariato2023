@@ -1,0 +1,17 @@
+C:\Users\usrTechsoft\source\repos\delegates\delegates\bin\Debug\net6.0-windows\delegates.exe
+C:\Users\usrTechsoft\source\repos\delegates\delegates\bin\Debug\net6.0-windows\delegates.deps.json
+C:\Users\usrTechsoft\source\repos\delegates\delegates\bin\Debug\net6.0-windows\delegates.runtimeconfig.json
+C:\Users\usrTechsoft\source\repos\delegates\delegates\bin\Debug\net6.0-windows\delegates.dll
+C:\Users\usrTechsoft\source\repos\delegates\delegates\bin\Debug\net6.0-windows\delegates.pdb
+C:\Users\usrTechsoft\source\repos\delegates\delegates\obj\Debug\net6.0-windows\delegates.csproj.AssemblyReference.cache
+C:\Users\usrTechsoft\source\repos\delegates\delegates\obj\Debug\net6.0-windows\delegates.Form1.resources
+C:\Users\usrTechsoft\source\repos\delegates\delegates\obj\Debug\net6.0-windows\delegates.csproj.GenerateResource.cache
+C:\Users\usrTechsoft\source\repos\delegates\delegates\obj\Debug\net6.0-windows\delegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usrTechsoft\source\repos\delegates\delegates\obj\Debug\net6.0-windows\delegates.AssemblyInfoInputs.cache
+C:\Users\usrTechsoft\source\repos\delegates\delegates\obj\Debug\net6.0-windows\delegates.AssemblyInfo.cs
+C:\Users\usrTechsoft\source\repos\delegates\delegates\obj\Debug\net6.0-windows\delegates.csproj.CoreCompileInputs.cache
+C:\Users\usrTechsoft\source\repos\delegates\delegates\obj\Debug\net6.0-windows\delegates.dll
+C:\Users\usrTechsoft\source\repos\delegates\delegates\obj\Debug\net6.0-windows\refint\delegates.dll
+C:\Users\usrTechsoft\source\repos\delegates\delegates\obj\Debug\net6.0-windows\delegates.pdb
+C:\Users\usrTechsoft\source\repos\delegates\delegates\obj\Debug\net6.0-windows\delegates.genruntimeconfig.cache
+C:\Users\usrTechsoft\source\repos\delegates\delegates\obj\Debug\net6.0-windows\ref\delegates.dll

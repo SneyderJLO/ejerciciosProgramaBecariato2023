@@ -1,0 +1,17 @@
+C:\Users\usrTechsoft\source\repos\clienteTcpIP\bin\Debug\net6.0-windows\clienteTcpIP.exe
+C:\Users\usrTechsoft\source\repos\clienteTcpIP\bin\Debug\net6.0-windows\clienteTcpIP.deps.json
+C:\Users\usrTechsoft\source\repos\clienteTcpIP\bin\Debug\net6.0-windows\clienteTcpIP.runtimeconfig.json
+C:\Users\usrTechsoft\source\repos\clienteTcpIP\bin\Debug\net6.0-windows\clienteTcpIP.dll
+C:\Users\usrTechsoft\source\repos\clienteTcpIP\bin\Debug\net6.0-windows\clienteTcpIP.pdb
+C:\Users\usrTechsoft\source\repos\clienteTcpIP\obj\Debug\net6.0-windows\clienteTcpIP.csproj.AssemblyReference.cache
+C:\Users\usrTechsoft\source\repos\clienteTcpIP\obj\Debug\net6.0-windows\clienteTcpIP.Form1.resources
+C:\Users\usrTechsoft\source\repos\clienteTcpIP\obj\Debug\net6.0-windows\clienteTcpIP.csproj.GenerateResource.cache
+C:\Users\usrTechsoft\source\repos\clienteTcpIP\obj\Debug\net6.0-windows\clienteTcpIP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usrTechsoft\source\repos\clienteTcpIP\obj\Debug\net6.0-windows\clienteTcpIP.AssemblyInfoInputs.cache
+C:\Users\usrTechsoft\source\repos\clienteTcpIP\obj\Debug\net6.0-windows\clienteTcpIP.AssemblyInfo.cs
+C:\Users\usrTechsoft\source\repos\clienteTcpIP\obj\Debug\net6.0-windows\clienteTcpIP.csproj.CoreCompileInputs.cache
+C:\Users\usrTechsoft\source\repos\clienteTcpIP\obj\Debug\net6.0-windows\clienteTcpIP.dll
+C:\Users\usrTechsoft\source\repos\clienteTcpIP\obj\Debug\net6.0-windows\refint\clienteTcpIP.dll
+C:\Users\usrTechsoft\source\repos\clienteTcpIP\obj\Debug\net6.0-windows\clienteTcpIP.pdb
+C:\Users\usrTechsoft\source\repos\clienteTcpIP\obj\Debug\net6.0-windows\clienteTcpIP.genruntimeconfig.cache
+C:\Users\usrTechsoft\source\repos\clienteTcpIP\obj\Debug\net6.0-windows\ref\clienteTcpIP.dll

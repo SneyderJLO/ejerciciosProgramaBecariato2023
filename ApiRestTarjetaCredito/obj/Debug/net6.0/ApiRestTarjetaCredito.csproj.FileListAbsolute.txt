@@ -1,0 +1,15 @@
+C:\Users\usrTechsoft\source\repos\ApiRestTarjetaCredito\bin\Debug\net6.0\ApiRestTarjetaCredito.exe
+C:\Users\usrTechsoft\source\repos\ApiRestTarjetaCredito\bin\Debug\net6.0\ApiRestTarjetaCredito.deps.json
+C:\Users\usrTechsoft\source\repos\ApiRestTarjetaCredito\bin\Debug\net6.0\ApiRestTarjetaCredito.runtimeconfig.json
+C:\Users\usrTechsoft\source\repos\ApiRestTarjetaCredito\bin\Debug\net6.0\ApiRestTarjetaCredito.dll
+C:\Users\usrTechsoft\source\repos\ApiRestTarjetaCredito\bin\Debug\net6.0\ApiRestTarjetaCredito.pdb
+C:\Users\usrTechsoft\source\repos\ApiRestTarjetaCredito\obj\Debug\net6.0\ApiRestTarjetaCredito.csproj.AssemblyReference.cache
+C:\Users\usrTechsoft\source\repos\ApiRestTarjetaCredito\obj\Debug\net6.0\ApiRestTarjetaCredito.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usrTechsoft\source\repos\ApiRestTarjetaCredito\obj\Debug\net6.0\ApiRestTarjetaCredito.AssemblyInfoInputs.cache
+C:\Users\usrTechsoft\source\repos\ApiRestTarjetaCredito\obj\Debug\net6.0\ApiRestTarjetaCredito.AssemblyInfo.cs
+C:\Users\usrTechsoft\source\repos\ApiRestTarjetaCredito\obj\Debug\net6.0\ApiRestTarjetaCredito.csproj.CoreCompileInputs.cache
+C:\Users\usrTechsoft\source\repos\ApiRestTarjetaCredito\obj\Debug\net6.0\ApiRestTarjetaCredito.dll
+C:\Users\usrTechsoft\source\repos\ApiRestTarjetaCredito\obj\Debug\net6.0\refint\ApiRestTarjetaCredito.dll
+C:\Users\usrTechsoft\source\repos\ApiRestTarjetaCredito\obj\Debug\net6.0\ApiRestTarjetaCredito.pdb
+C:\Users\usrTechsoft\source\repos\ApiRestTarjetaCredito\obj\Debug\net6.0\ApiRestTarjetaCredito.genruntimeconfig.cache
+C:\Users\usrTechsoft\source\repos\ApiRestTarjetaCredito\obj\Debug\net6.0\ref\ApiRestTarjetaCredito.dll

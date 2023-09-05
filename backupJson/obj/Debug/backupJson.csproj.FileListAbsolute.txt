@@ -1,0 +1,11 @@
+C:\Users\usrTechsoft\source\repos\backupJson\bin\Debug\backupJson.exe.config
+C:\Users\usrTechsoft\source\repos\backupJson\bin\Debug\backupJson.exe
+C:\Users\usrTechsoft\source\repos\backupJson\bin\Debug\backupJson.pdb
+C:\Users\usrTechsoft\source\repos\backupJson\obj\Debug\backupJson.csproj.AssemblyReference.cache
+C:\Users\usrTechsoft\source\repos\backupJson\obj\Debug\backupJson.csproj.SuggestedBindingRedirects.cache
+C:\Users\usrTechsoft\source\repos\backupJson\obj\Debug\backupJson.csproj.CoreCompileInputs.cache
+C:\Users\usrTechsoft\source\repos\backupJson\obj\Debug\backupJson.exe
+C:\Users\usrTechsoft\source\repos\backupJson\obj\Debug\backupJson.pdb
+C:\Users\usrTechsoft\source\repos\backupJson\bin\Debug\Newtonsoft.Json.dll
+C:\Users\usrTechsoft\source\repos\backupJson\bin\Debug\Newtonsoft.Json.xml
+C:\Users\usrTechsoft\source\repos\backupJson\obj\Debug\backupJson.csproj.CopyComplete

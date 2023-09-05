@@ -1,0 +1,17 @@
+C:\Users\usrTechsoft\source\repos\clientePing\obj\Debug\net6.0-windows\clientePing.csproj.AssemblyReference.cache
+C:\Users\usrTechsoft\source\repos\clientePing\obj\Debug\net6.0-windows\clientePing.Form1.resources
+C:\Users\usrTechsoft\source\repos\clientePing\obj\Debug\net6.0-windows\clientePing.csproj.GenerateResource.cache
+C:\Users\usrTechsoft\source\repos\clientePing\obj\Debug\net6.0-windows\clientePing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usrTechsoft\source\repos\clientePing\obj\Debug\net6.0-windows\clientePing.AssemblyInfoInputs.cache
+C:\Users\usrTechsoft\source\repos\clientePing\obj\Debug\net6.0-windows\clientePing.AssemblyInfo.cs
+C:\Users\usrTechsoft\source\repos\clientePing\obj\Debug\net6.0-windows\clientePing.csproj.CoreCompileInputs.cache
+C:\Users\usrTechsoft\source\repos\clientePing\bin\Debug\net6.0-windows\clientePing.exe
+C:\Users\usrTechsoft\source\repos\clientePing\bin\Debug\net6.0-windows\clientePing.deps.json
+C:\Users\usrTechsoft\source\repos\clientePing\bin\Debug\net6.0-windows\clientePing.runtimeconfig.json
+C:\Users\usrTechsoft\source\repos\clientePing\bin\Debug\net6.0-windows\clientePing.dll
+C:\Users\usrTechsoft\source\repos\clientePing\bin\Debug\net6.0-windows\clientePing.pdb
+C:\Users\usrTechsoft\source\repos\clientePing\obj\Debug\net6.0-windows\clientePing.dll
+C:\Users\usrTechsoft\source\repos\clientePing\obj\Debug\net6.0-windows\refint\clientePing.dll
+C:\Users\usrTechsoft\source\repos\clientePing\obj\Debug\net6.0-windows\clientePing.pdb
+C:\Users\usrTechsoft\source\repos\clientePing\obj\Debug\net6.0-windows\clientePing.genruntimeconfig.cache
+C:\Users\usrTechsoft\source\repos\clientePing\obj\Debug\net6.0-windows\ref\clientePing.dll

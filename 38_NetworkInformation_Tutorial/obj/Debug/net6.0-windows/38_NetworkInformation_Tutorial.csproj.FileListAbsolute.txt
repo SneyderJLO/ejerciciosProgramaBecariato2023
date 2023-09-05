@@ -1,0 +1,17 @@
+C:\Users\usrTechsoft\source\repos\38_NetworkInformation_Tutorial\bin\Debug\net6.0-windows\38_NetworkInformation_Tutorial.exe
+C:\Users\usrTechsoft\source\repos\38_NetworkInformation_Tutorial\bin\Debug\net6.0-windows\38_NetworkInformation_Tutorial.deps.json
+C:\Users\usrTechsoft\source\repos\38_NetworkInformation_Tutorial\bin\Debug\net6.0-windows\38_NetworkInformation_Tutorial.runtimeconfig.json
+C:\Users\usrTechsoft\source\repos\38_NetworkInformation_Tutorial\bin\Debug\net6.0-windows\38_NetworkInformation_Tutorial.dll
+C:\Users\usrTechsoft\source\repos\38_NetworkInformation_Tutorial\bin\Debug\net6.0-windows\38_NetworkInformation_Tutorial.pdb
+C:\Users\usrTechsoft\source\repos\38_NetworkInformation_Tutorial\obj\Debug\net6.0-windows\38_NetworkInformation_Tutorial.csproj.AssemblyReference.cache
+C:\Users\usrTechsoft\source\repos\38_NetworkInformation_Tutorial\obj\Debug\net6.0-windows\_38_NetworkInformation_Tutorial.Form1.resources
+C:\Users\usrTechsoft\source\repos\38_NetworkInformation_Tutorial\obj\Debug\net6.0-windows\38_NetworkInformation_Tutorial.csproj.GenerateResource.cache
+C:\Users\usrTechsoft\source\repos\38_NetworkInformation_Tutorial\obj\Debug\net6.0-windows\38_NetworkInformation_Tutorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usrTechsoft\source\repos\38_NetworkInformation_Tutorial\obj\Debug\net6.0-windows\38_NetworkInformation_Tutorial.AssemblyInfoInputs.cache
+C:\Users\usrTechsoft\source\repos\38_NetworkInformation_Tutorial\obj\Debug\net6.0-windows\38_NetworkInformation_Tutorial.AssemblyInfo.cs
+C:\Users\usrTechsoft\source\repos\38_NetworkInformation_Tutorial\obj\Debug\net6.0-windows\38_NetworkInformation_Tutorial.csproj.CoreCompileInputs.cache
+C:\Users\usrTechsoft\source\repos\38_NetworkInformation_Tutorial\obj\Debug\net6.0-windows\38_NetworkInformation_Tutorial.dll
+C:\Users\usrTechsoft\source\repos\38_NetworkInformation_Tutorial\obj\Debug\net6.0-windows\refint\38_NetworkInformation_Tutorial.dll
+C:\Users\usrTechsoft\source\repos\38_NetworkInformation_Tutorial\obj\Debug\net6.0-windows\38_NetworkInformation_Tutorial.pdb
+C:\Users\usrTechsoft\source\repos\38_NetworkInformation_Tutorial\obj\Debug\net6.0-windows\38_NetworkInformation_Tutorial.genruntimeconfig.cache
+C:\Users\usrTechsoft\source\repos\38_NetworkInformation_Tutorial\obj\Debug\net6.0-windows\ref\38_NetworkInformation_Tutorial.dll

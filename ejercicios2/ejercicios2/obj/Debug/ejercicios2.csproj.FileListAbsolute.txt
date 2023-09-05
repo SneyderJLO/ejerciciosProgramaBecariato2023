@@ -1,0 +1,8 @@
+C:\Users\usrTechsoft\source\repos\ejercicios2\ejercicios2\bin\Debug\ejercicios2.exe.config
+C:\Users\usrTechsoft\source\repos\ejercicios2\ejercicios2\bin\Debug\ejercicios2.exe
+C:\Users\usrTechsoft\source\repos\ejercicios2\ejercicios2\bin\Debug\ejercicios2.pdb
+C:\Users\usrTechsoft\source\repos\ejercicios2\ejercicios2\obj\Debug\ejercicios2.csproj.AssemblyReference.cache
+C:\Users\usrTechsoft\source\repos\ejercicios2\ejercicios2\obj\Debug\ejercicios2.csproj.SuggestedBindingRedirects.cache
+C:\Users\usrTechsoft\source\repos\ejercicios2\ejercicios2\obj\Debug\ejercicios2.csproj.CoreCompileInputs.cache
+C:\Users\usrTechsoft\source\repos\ejercicios2\ejercicios2\obj\Debug\ejercicios2.exe
+C:\Users\usrTechsoft\source\repos\ejercicios2\ejercicios2\obj\Debug\ejercicios2.pdb

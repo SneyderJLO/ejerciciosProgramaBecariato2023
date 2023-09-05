@@ -1,0 +1,17 @@
+C:\Users\usrTechsoft\source\repos\Cliente SMTP_Tutorial\bin\Debug\net6.0-windows\Cliente SMTP_Tutorial.exe
+C:\Users\usrTechsoft\source\repos\Cliente SMTP_Tutorial\bin\Debug\net6.0-windows\Cliente SMTP_Tutorial.deps.json
+C:\Users\usrTechsoft\source\repos\Cliente SMTP_Tutorial\bin\Debug\net6.0-windows\Cliente SMTP_Tutorial.runtimeconfig.json
+C:\Users\usrTechsoft\source\repos\Cliente SMTP_Tutorial\bin\Debug\net6.0-windows\Cliente SMTP_Tutorial.dll
+C:\Users\usrTechsoft\source\repos\Cliente SMTP_Tutorial\bin\Debug\net6.0-windows\Cliente SMTP_Tutorial.pdb
+C:\Users\usrTechsoft\source\repos\Cliente SMTP_Tutorial\obj\Debug\net6.0-windows\Cliente SMTP_Tutorial.csproj.AssemblyReference.cache
+C:\Users\usrTechsoft\source\repos\Cliente SMTP_Tutorial\obj\Debug\net6.0-windows\Cliente_SMTP_Tutorial.Form1.resources
+C:\Users\usrTechsoft\source\repos\Cliente SMTP_Tutorial\obj\Debug\net6.0-windows\Cliente SMTP_Tutorial.csproj.GenerateResource.cache
+C:\Users\usrTechsoft\source\repos\Cliente SMTP_Tutorial\obj\Debug\net6.0-windows\Cliente SMTP_Tutorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usrTechsoft\source\repos\Cliente SMTP_Tutorial\obj\Debug\net6.0-windows\Cliente SMTP_Tutorial.AssemblyInfoInputs.cache
+C:\Users\usrTechsoft\source\repos\Cliente SMTP_Tutorial\obj\Debug\net6.0-windows\Cliente SMTP_Tutorial.AssemblyInfo.cs
+C:\Users\usrTechsoft\source\repos\Cliente SMTP_Tutorial\obj\Debug\net6.0-windows\Cliente SMTP_Tutorial.csproj.CoreCompileInputs.cache
+C:\Users\usrTechsoft\source\repos\Cliente SMTP_Tutorial\obj\Debug\net6.0-windows\Cliente SMTP_Tutorial.dll
+C:\Users\usrTechsoft\source\repos\Cliente SMTP_Tutorial\obj\Debug\net6.0-windows\refint\Cliente SMTP_Tutorial.dll
+C:\Users\usrTechsoft\source\repos\Cliente SMTP_Tutorial\obj\Debug\net6.0-windows\Cliente SMTP_Tutorial.pdb
+C:\Users\usrTechsoft\source\repos\Cliente SMTP_Tutorial\obj\Debug\net6.0-windows\Cliente SMTP_Tutorial.genruntimeconfig.cache
+C:\Users\usrTechsoft\source\repos\Cliente SMTP_Tutorial\obj\Debug\net6.0-windows\ref\Cliente SMTP_Tutorial.dll

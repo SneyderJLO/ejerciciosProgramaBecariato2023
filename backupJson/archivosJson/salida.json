@@ -1,0 +1,178 @@
+[
+  {
+    "idTransaccion": 1,
+    "idTarjeta": 31,
+    "idProducto": 1,
+    "fecha": "2022-02-02T00:00:00",
+    "producto": "producto1           ",
+    "valor": 39.50
+  },
+  {
+    "idTransaccion": 2,
+    "idTarjeta": 32,
+    "idProducto": 1,
+    "fecha": "2021-01-05T00:00:00",
+    "producto": "producto1           ",
+    "valor": 14.25
+  },
+  {
+    "idTransaccion": 3,
+    "idTarjeta": 31,
+    "idProducto": 2,
+    "fecha": "2023-01-01T00:00:00",
+    "producto": "producto2           ",
+    "valor": 35.62
+  },
+  {
+    "idTransaccion": 4,
+    "idTarjeta": 31,
+    "idProducto": 2,
+    "fecha": "2023-01-01T00:00:00",
+    "producto": "producto2           ",
+    "valor": 35.62
+  },
+  {
+    "idTransaccion": 5,
+    "idTarjeta": 31,
+    "idProducto": 2,
+    "fecha": "2023-01-01T00:00:00",
+    "producto": "producto2           ",
+    "valor": 35.62
+  },
+  {
+    "idTransaccion": 6,
+    "idTarjeta": 35,
+    "idProducto": 1,
+    "fecha": "2022-02-02T00:00:00",
+    "producto": "producto1           ",
+    "valor": 39.50
+  },
+  {
+    "idTransaccion": 7,
+    "idTarjeta": 35,
+    "idProducto": 1,
+    "fecha": "2022-02-02T00:00:00",
+    "producto": "producto1           ",
+    "valor": 0.50
+  },
+  {
+    "idTransaccion": 8,
+    "idTarjeta": 20,
+    "idProducto": 0,
+    "fecha": "2023-08-13T00:00:00",
+    "producto": "                    ",
+    "valor": 0.00
+  },
+  {
+    "idTransaccion": 9,
+    "idTarjeta": 20,
+    "idProducto": 0,
+    "fecha": "2023-08-13T00:00:00",
+    "producto": "                    ",
+    "valor": 0.00
+  },
+  {
+    "idTransaccion": 10,
+    "idTarjeta": 13,
+    "idProducto": 0,
+    "fecha": "2023-08-13T00:00:00",
+    "producto": "                    ",
+    "valor": 0.00
+  },
+  {
+    "idTransaccion": 11,
+    "idTarjeta": 26,
+    "idProducto": 0,
+    "fecha": "2023-08-13T00:00:00",
+    "producto": "                    ",
+    "valor": 0.00
+  },
+  {
+    "idTransaccion": 12,
+    "idTarjeta": 24,
+    "idProducto": 0,
+    "fecha": "2023-08-13T00:00:00",
+    "producto": "                    ",
+    "valor": 0.00
+  },
+  {
+    "idTransaccion": 13,
+    "idTarjeta": 37,
+    "idProducto": 0,
+    "fecha": "2023-08-13T00:00:00",
+    "producto": "                    ",
+    "valor": 0.00
+  },
+  {
+    "idTransaccion": 14,
+    "idTarjeta": 37,
+    "idProducto": 0,
+    "fecha": "2023-08-13T00:00:00",
+    "producto": "                    ",
+    "valor": 0.00
+  },
+  {
+    "idTransaccion": 15,
+    "idTarjeta": 23,
+    "idProducto": 0,
+    "fecha": "2023-08-13T00:00:00",
+    "producto": "                    ",
+    "valor": 0.00
+  },
+  {
+    "idTransaccion": 16,
+    "idTarjeta": 14,
+    "idProducto": 0,
+    "fecha": "2023-08-13T00:00:00",
+    "producto": "                    ",
+    "valor": 0.00
+  },
+  {
+    "idTransaccion": 17,
+    "idTarjeta": 36,
+    "idProducto": 1,
+    "fecha": "2023-08-13T00:00:00",
+    "producto": "FJALLRAVEN - FOLDSAC",
+    "valor": 0.00
+  },
+  {
+    "idTransaccion": 18,
+    "idTarjeta": 36,
+    "idProducto": 1,
+    "fecha": "2023-08-13T00:00:00",
+    "producto": "FJALLRAVEN - FOLDSAC",
+    "valor": 109.95
+  },
+  {
+    "idTransaccion": 19,
+    "idTarjeta": 36,
+    "idProducto": 14,
+    "fecha": "2023-08-13T00:00:00",
+    "producto": "SAMSUNG 49-INCH CHG9",
+    "valor": 1109.94
+  },
+  {
+    "idTransaccion": 20,
+    "idTarjeta": 35,
+    "idProducto": 1,
+    "fecha": "2023-08-13T00:00:00",
+    "producto": "FJALLRAVEN - FOLDSAC",
+    "valor": 109.95
+  },
+  {
+    "idTransaccion": 21,
+    "idTarjeta": 23,
+    "idProducto": 1,
+    "fecha": "2023-08-14T00:00:00",
+    "producto": "FJALLRAVEN - FOLDSAC",
+    "valor": 109.95
+  },
+  {
+    "idTransaccion": 22,
+    "idTarjeta": 40,
+    "idProducto": 20,
+    "fecha": "2023-08-14T00:00:00",
+    "producto": "DANVOUY WOMENS T SHI",
+    "valor": 12.99
+  }
+]

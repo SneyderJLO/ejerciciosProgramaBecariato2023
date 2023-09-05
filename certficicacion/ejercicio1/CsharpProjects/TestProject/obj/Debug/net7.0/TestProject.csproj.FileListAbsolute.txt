@@ -1,0 +1,14 @@
+C:\Users\usrTechsoft\source\repos\certficicacion\ejercicio1\CsharpProjects\TestProject\bin\Debug\net7.0\TestProject.exe
+C:\Users\usrTechsoft\source\repos\certficicacion\ejercicio1\CsharpProjects\TestProject\bin\Debug\net7.0\TestProject.deps.json
+C:\Users\usrTechsoft\source\repos\certficicacion\ejercicio1\CsharpProjects\TestProject\bin\Debug\net7.0\TestProject.runtimeconfig.json
+C:\Users\usrTechsoft\source\repos\certficicacion\ejercicio1\CsharpProjects\TestProject\bin\Debug\net7.0\TestProject.dll
+C:\Users\usrTechsoft\source\repos\certficicacion\ejercicio1\CsharpProjects\TestProject\bin\Debug\net7.0\TestProject.pdb
+C:\Users\usrTechsoft\source\repos\certficicacion\ejercicio1\CsharpProjects\TestProject\obj\Debug\net7.0\TestProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usrTechsoft\source\repos\certficicacion\ejercicio1\CsharpProjects\TestProject\obj\Debug\net7.0\TestProject.AssemblyInfoInputs.cache
+C:\Users\usrTechsoft\source\repos\certficicacion\ejercicio1\CsharpProjects\TestProject\obj\Debug\net7.0\TestProject.AssemblyInfo.cs
+C:\Users\usrTechsoft\source\repos\certficicacion\ejercicio1\CsharpProjects\TestProject\obj\Debug\net7.0\TestProject.csproj.CoreCompileInputs.cache
+C:\Users\usrTechsoft\source\repos\certficicacion\ejercicio1\CsharpProjects\TestProject\obj\Debug\net7.0\TestProject.dll
+C:\Users\usrTechsoft\source\repos\certficicacion\ejercicio1\CsharpProjects\TestProject\obj\Debug\net7.0\refint\TestProject.dll
+C:\Users\usrTechsoft\source\repos\certficicacion\ejercicio1\CsharpProjects\TestProject\obj\Debug\net7.0\TestProject.pdb
+C:\Users\usrTechsoft\source\repos\certficicacion\ejercicio1\CsharpProjects\TestProject\obj\Debug\net7.0\TestProject.genruntimeconfig.cache
+C:\Users\usrTechsoft\source\repos\certficicacion\ejercicio1\CsharpProjects\TestProject\obj\Debug\net7.0\ref\TestProject.dll
